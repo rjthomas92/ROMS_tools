@@ -6,6 +6,7 @@ Simple creation of temperature, salinity, and free-surface conditions for use wi
 I am currently working on updating these tools for modern versions of Matlab since it uses some deprecated functions from the 2013a build.
 
 License
+
 The MIT License (MIT)
 
 Copyright (c)
